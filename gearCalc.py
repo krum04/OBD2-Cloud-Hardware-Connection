@@ -1,4 +1,4 @@
-# define function to calculate transmision gear
+# define function to calculate transmission gear
 def gearDisp(rpm, speed):
     curGear = ''
     gearRatio = int(float(rpm)/float(speed))
